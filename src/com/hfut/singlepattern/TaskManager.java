@@ -1,4 +1,4 @@
-package com.hfut.single;
+package com.hfut.singlepattern;
 
 /**
  * Created by dell on 2015/10/16.
